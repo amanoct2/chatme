@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    /* font-family: Poppins; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+img.dot{ 
+    width: 15px;
+}
